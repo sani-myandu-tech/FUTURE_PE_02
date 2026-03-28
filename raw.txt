@@ -1,0 +1,15 @@
+RAW OUTPUT (INITIAL VERSION)
+
+Generated Output:
+
+  [HOOK]     Looking for affordable food in Durban?
+  [PROBLEM]  Food is often expensive and slow.
+  [SOLUTION] Urban Bites Café offers affordable meals with fast service.
+  [CTA]      Visit Urban Bites Café today.
+
+Observations:
+  * Basic and generic — reads like a flyer, not a video script
+  * Weak hook — a question with no tension or personality
+  * Not engaging or emotionally relevant to the audience
+
+END OF RAW OUTPUT
