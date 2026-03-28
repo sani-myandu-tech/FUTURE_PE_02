@@ -1,0 +1,104 @@
+PROMPT ENGINEERING LOG – (UGC AD GENERATION)
+
+
+ ITERATION 1: MASTER PROMPT
+
+Act as a UGC content creator and social media marketer.
+Create a short-form UGC-style video ad for a local business.
+
+Business Details:
+  * Business Name: Urban Bites Café
+  * Location: Durban
+  * Target Audience: Students and young professionals
+  * Unique Selling Point: Affordable gourmet meals with fast service
+
+Requirements:
+  * Hook (first 3 seconds)
+  * Problem
+  * Solution
+  * CTA
+
+Tone:
+  * Natural
+  * Relatable
+  * Not overly salesy
+
+Generated Script – Iteration 1:
+
+  [HOOK]
+  Okay, so I finally found a spot in Durban where the food actually
+  tastes good AND doesn't empty my wallet…
+
+  [PROBLEM]
+  You know how it is — between lectures and deadlines, you barely
+  have time to eat, let alone find something decent that's under R100.
+
+  [SOLUTION]
+  Urban Bites Café changed that for me. Gourmet-level meals, super
+  fast service, and it's right here in the city. It honestly feels
+  like cheating.
+
+  [CTA]
+  Go check them out — trust me, your taste buds and your budget
+  will both thank you.
+
+
+
+ ITERATION 2: IMPROVEMENT PROMPT
+Improve the script by:
+  * Making the hook more attention-grabbing
+  * Adding emotional appeal
+  * Making it sound more natural
+  * Adding Durban/local context
+
+Generated Script – Iteration 2:
+
+  [HOOK]
+  POV: It's 1pm, you have a 2pm lecture, R80 in your account,
+  and you're starving. Been there.
+
+  [PROBLEM]
+  Finding food in Durban that's fast, filling, and actually tastes
+  like something? Nearly impossible when you're on a student budget.
+
+  [SOLUTION]
+  Urban Bites Café gets it. Gourmet meals that don't cost like it.
+  Fast enough to grab between classes. And honestly — the food hits
+  differently when you're not stressed about the price.
+
+  [CTA]
+  If you're in Durban and you haven't been yet, you're really doing
+  yourself dirty. Go. Now. Urban Bites Café.
+
+
+ ITERATION 3: FINAL REFINEMENT
+
+Refine the script by:
+  * Making sentences shorter and punchy
+  * Optimising for TikTok/Instagram
+  * Strengthening the CTA
+  * Improving flow for on-camera delivery
+
+Generated Script – Iteration 3 (FINAL – TikTok/Instagram Ready):
+
+  [HOOK]
+  R80. One hour. Durban. Let me show you something.
+
+  [PROBLEM]
+  Student life means bad food or no food. There's barely time
+  between classes to eat something real.
+
+  [SOLUTION]
+  Urban Bites Café fixed that for me. Gourmet meals. Fast.
+  Affordable. Right here in the city. I'm not exaggerating —
+  this place goes hard.
+
+  [VISUAL NOTE]
+  Show food arriving, steam rising, close-up of plating.
+
+  [CTA]
+  Link in bio. Go try it. Tell them I sent you. Urban Bites Café —
+  Durban's best kept secret. Not for long.
+
+END OF LOG
+
